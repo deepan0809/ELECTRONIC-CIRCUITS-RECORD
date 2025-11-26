@@ -5,8 +5,11 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
+![WhatsApp Image 2025-11-26 at 7 36 03 PM](https://github.com/user-attachments/assets/0fa0c4f2-9806-4eb1-8cd3-9bd441b5d381)
+
 
 ## GRAPHS
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/e35ced6f-49f8-456c-9886-8fcd6242a0c3" />
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
